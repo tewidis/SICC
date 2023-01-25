@@ -29,7 +29,7 @@ megawatts
     * IBM pioneered the "services computing" model
     * Computing as a utility
 
-| ![azure](images/introduction_azure_presence.png) |
+| ![azure](images/sdn1_azure_presence.png) |
 |:--:|
 | Microsoft Azure Global Presence |
 
@@ -94,15 +94,15 @@ basis
         (Gmail, Dropbox, YouTube, games)
         - User does not see physical resources in the cloud
 
-| ![iaas](images/introduction_iaas_marketplace.png) |
+| ![iaas](images/sdn1_iaas_marketplace.png) |
 |:--:|
 | IaaS Marketplace |
 
-| ![paas](images/introduction_paas_marketplace.png) |
+| ![paas](images/sdn1_paas_marketplace.png) |
 |:--:|
 | PaaS Marketplace |
 
-| ![marketplace](images/introduction_marketplace.png) |
+| ![marketplace](images/sdn1_marketplace.png) |
 |:--:|
 | Overall Marketplace |
 
@@ -147,7 +147,7 @@ basis
     * Human in the loop and integration with devices
     * Improving resource utilization
 
-| ![challenges](images/introduction_challenges.png) |
+| ![challenges](images/sdn1_challenges.png) |
 |:--:|
 | Challenges |
 
