@@ -42,7 +42,7 @@
         management, sales rank, and product catalog
     * Query model
         - Simple read/write operations to data items identified by a key
-        - Operations do not span multiple data items -> no need for relatiional
+        - Operations do not span multiple data items -> no need for relational
         schema
     * Trusted operational environment
 2. Design goals
@@ -84,7 +84,7 @@
 2. Data partitioning
     * Consistent hashing -> incremental stability
 3. Replication
-    * Overlaid on consistent hasing to increase availability
+    * Overlaid on consistent hashing to increase availability
 4. Eventual consistency
     * Versioning and vector clocks to achieve consistency
 
